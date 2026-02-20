@@ -29,6 +29,51 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 
 ---
 
+
+
+---
+
+## 🟡 JavaScript Telemetry
+
+<div align="center">
+
+### ⚡ Core JavaScript Metrics
+
+</div>
+
+| 🧠 Engine Power | 📊 Data |
+|-----------------|--------|
+| Years Working with JS | 2+ Years |
+| JavaScript Projects Built | 25+ |
+| ES6+ Usage Rate | 95% |
+| Async/Await & Promises | Daily Usage |
+| Reusable Components Written | 150+ |
+| API Integrations Completed | 40+ |
+| Performance Optimization | Avg 30% Improvement |
+| Bugs Squashed | Countless 🐛 |
+| Clean Code Discipline | 100% Mandatory |
+
+---
+
+### 🧬 JavaScript Focus Architecture
+
+```text
+████████████████████  DOM Manipulation
+██████████████████░░  Async Patterns
+███████████████████░  Functional Concepts
+████████████████░░░░  Performance Tuning
+███████████████████░  Modular Structure
+
+
+
+
+---
+
+
+
+
+
+
 ## 📊 **GitHub Stats**
 
 <p align="center">
