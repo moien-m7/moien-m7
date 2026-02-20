@@ -1,36 +1,64 @@
-# 👋 Hi, I'm Moein
+<h1 align="center">👋 Hi, I'm Moein</h1>
+<h3 align="center">Front-End Developer | React Specialist | 2+ Years of Experience</h3>
 
-## About Me
-I'm a front-end developer with 2 years of experience building responsive and user‑friendly web applications.  
-I enjoy turning ideas into real products using modern JavaScript and React. Currently focused on improving my skills and collaborating on exciting projects.
+<p align="center">
+  <a href="https://github.com/moein-m7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:moeinm33@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
----
-
-## Work Experience
-- **2024 – Present:** Front-end developer working on various web projects using React, JavaScript, and Sass.  
-- **2023 – 2024:** Self‑taught developer – built several practice projects and contributed to small open‑source repositories.
-
----
-
-## Currently Working On:
-- [**Simple React Store**](https://github.com/moien-m7/simple-react-store) – An e‑commerce demo for home appliances and mobile devices (built with React and Sass).
-
----
-
-## Currently Learning:
-- Advanced React patterns (hooks, context, performance optimization)  
-- State management with Redux / Context API  
-- Modern CSS techniques and responsive design
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
 
 ---
 
-## Ask Me About:
-- React, JavaScript (ES6+), jQuery  
-- HTML5, CSS3, Sass  
-- Responsive web design and front‑end tooling (Git, npm, Chrome DevTools)
+### 🚀 About Me
+I'm a passionate **Front-End Developer** with 2 years of experience crafting responsive, high-performance web applications. I love turning complex problems into simple, beautiful interfaces. My goal is to build products that provide seamless user experiences.
+
+- 🔭 **Currently working on:** [**Simple React Store**](https://github.com/moein-m7/simple-react-store) – an e-commerce platform for home appliances and mobile devices.
+- 🌱 **Learning:** Advanced React patterns, State Management (Redux/Context), and Performance Optimization.
+- 👯 **Open to collaborate:** On exciting front-end projects, open-source contributions, and innovative ideas.
+- 💬 **Ask me about:** React, JavaScript, jQuery, CSS architecture, and responsive design.
+- ⚡ **Fun fact:** I'm obsessed with clean code and pixel-perfect designs.
+
+### 🛠️ My Toolbox
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Libraries & Frameworks:** React, jQuery
+- **Preprocessors & Tools:** Sass, Git, npm, Webpack, VS Code, Chrome DevTools
+- **UI/UX:** Figma, Adobe XD (basics)
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moein-m7&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moein-m7&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moein-m7&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+### 📌 Pinned Projects
+- [**Simple React Store**](https://github.com/moein-m7/simple-react-store) – A fully responsive e‑commerce demo built with React and Sass. Features product listing, cart management, and local storage persistence.
+
+### 🌐 Let's Connect
+I'm always excited to connect with fellow developers and potential collaborators. Feel free to drop me a message or email:
+
+<p align="center">
+  <a href="mailto:moeinm33@gmail.com"><img src="https://img.shields.io/badge/moeinm33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📫 How to reach me:
-- Email: [moeinm33@gmail.com](mailto:moeinm33@gmail.com)  
-- GitHub: [@moien-m7](https://github.com/moien-m7)
+<p align="center">
+  <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/moein-m7">moein-m7</a>
+</p>
