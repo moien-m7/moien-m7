@@ -58,12 +58,19 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 
 
 
+### 🧬 JavaScript Focus Architecture
+
+
+████████████████████  DOM Manipulation
+██████████████████░░  Async Patterns
+███████████████████░  Functional Concepts
+████████████████░░░░  Performance Tuning
+███████████████████░  Modular Structure
 
 
 
 
-
-
+---
 
 
 
@@ -83,7 +90,7 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 </div>
 
 <p align="center">
-  <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
+  <i>“First, solve the problem. Then, write the code.”</i>
 </p>
 <p align="center">
   ⭐️ From <a href="https://github.com/moien-m7">moien-m7</a>
