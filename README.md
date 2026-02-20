@@ -1,75 +1,73 @@
-<h1 align="center">
-  <span style="color: #39FF14; font-family: 'Poppins', 'Segoe UI', sans-serif;">Moein</span>
-</h1>
+<div align="center">
 
-<p align="center">
-  <span style="font-family: 'Georgia', serif;">A self‑taught passionate Front‑End developer from <b>Iran 🇮🇷</b></span>
-</p>
+# 🌌 **Moein** 🌌
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Iran-ffd700?style=flat-square" />
-  <img src="https://img.shields.io/badge/💬_English_&_فارسی-4CAF50?style=flat-square" />
-</p>
+### Front-End Developer | React Specialist | 2+ Years of Experience
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+Specialist;UI/UX+Enthusiast" alt="Typing SVG" />
 
 ---
 
-### 👨‍💻 About me
+</div>
 
-- 🔭 **Front‑End Developer** with 2 years of experience building responsive web apps.
-- 🌱 **Currently working on:** [**simple-ecommerce-by-React**](https://github.com/moien-m7/simple-ecommerce-by-React) – an e‑commerce platform for home appliances & mobile devices (React, Sass).
-- 📈 I love writing clean JavaScript and crafting pixel‑perfect interfaces.
-- ❤️ I’m passionate about open source and always looking to collaborate.
-- 💬 Ask me about React, JavaScript, jQuery, CSS, and responsive design.
+## 🚀 About Me
+I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years of experience crafting responsive, high-performance web applications. I love turning complex problems into simple, beautiful interfaces.
 
----
-
-### 🛠️ My Toolbox
-
-| Languages | Libraries/Frameworks | Tools & Preprocessors | UI/UX |
-|-----------|----------------------|------------------------|--------|
-| HTML5, CSS3, JavaScript (ES6+) | React, jQuery | Sass, Git, npm, Webpack, VS Code, Chrome DevTools | Figma, Adobe XD (basics) |
+- 🔭 **Currently working on:** [`simple-ecommerce-by-React`](https://github.com/moien-m7/simple-ecommerce-by-React) – a modern e‑commerce platform for home appliances & mobile devices (React, Sass).
+- 🌱 **Learning:** Advanced React patterns, State Management (Redux/Context), Performance Optimization.
+- 👯 **Open to collaborate:** On exciting front-end projects, open-source contributions, and innovative ideas.
+- 💬 **Ask me about:** React, JavaScript, jQuery, CSS architecture, responsive design.
+- ⚡ **Fun fact:** I'm obsessed with clean code and pixel-perfect designs.
 
 ---
 
-### 📊 GitHub Stats
+## 🛸 **Tech Stack & Tools**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moien-m7&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moien-m7&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moien-m7&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,sass,figma,git,webpack,vscode" />
 </p>
 
 ---
 
-### 📌 Pinned Projects
+## 📊 **GitHub Stats**
 
-- [**simple-ecommerce-by-React**](https://github.com/moien-m7/simple-ecommerce-by-React) – Fully responsive e‑commerce demo with product listing, cart management, and local storage.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moien-m7&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moien-m7&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moien-m7&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+## 🌟 **Featured Project**
 
 <p align="center">
-  <a href="mailto:moeinm33@gmail.com"><img src="https://img.shields.io/badge/moeinm33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/moien-m7/simple-ecommerce-by-React">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moien-m7&repo=simple-ecommerce-by-React&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🌐 **Let's Connect**
+
+<p align="center">
+  <a href="mailto:moeinm33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/moien-m7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- لینکدین رو اگه داری اینجا اضافه کن -->
 </p>
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/moien-m7/moien-m7/main/assets/divider.svg" width="100%" />
+</div>
+
 <p align="center">
-  <i>“First, solve the problem. Then, write the code.” </i>
+  <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
 </p>
 <p align="center">
   ⭐️ From <a href="https://github.com/moien-m7">moien-m7</a>
