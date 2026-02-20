@@ -55,14 +55,7 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 
 ---
 
-### 🧬 JavaScript Focus Architecture
 
-```text
-████████████████████  DOM Manipulation
-██████████████████░░  Async Patterns
-███████████████████░  Functional Concepts
-████████████████░░░░  Performance Tuning
-███████████████████░  Modular Structure
 
 
 
