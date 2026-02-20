@@ -21,18 +21,6 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 
 ---
 
-## 🛸 **Tech Stack & Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,sass,figma" />
-</p>
-
----
-
-
-
-
-
 ## 🟡 JavaScript Telemetry
 
 <div align="center">
@@ -55,12 +43,13 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 
 
 
-Architecture Mindset   ████████████████████
-Performance Focus      ██████████████████░░
-Component Thinking     ████████████████████
-UI Precision           █████████████████░░░
-Scalability Vision     █████████████████░░░
-Problem Solving        ████████████████████
+```text
+Architecture Mindset  ████████████████████ 100%
+Performance Focus     ██████████████████░░  90%
+Component Thinking    ████████████████████ 100%
+UI Precision          █████████████████░░░ 85%
+Scalability Vision    █████████████████░░░ 85%
+Problem Solving       ████████████████████ 100%
 
 ---
 
@@ -71,6 +60,17 @@ Problem Solving        ███████████████████
 
 
 
+
+
+
+
+## 🛸 **Tech Stack & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,sass,figma" />
+</p>
+
+---
 
 
 
