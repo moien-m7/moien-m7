@@ -24,7 +24,7 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 ## 🛸 **Tech Stack & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,sass,figma,,,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,sass,figma" />
 </p>
 
 ---
