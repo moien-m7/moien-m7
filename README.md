@@ -31,7 +31,7 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 
 
 
----
+
 
 ## 🟡 JavaScript Telemetry
 
@@ -67,7 +67,7 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 
 
 
----
+
 
 
 
