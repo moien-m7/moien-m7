@@ -43,7 +43,7 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 
 
 
-```text
+
 Architecture Mindset  ████████████████████ 100%
 Performance Focus     ██████████████████░░  90%
 Component Thinking    ████████████████████ 100%
