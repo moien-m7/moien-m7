@@ -1,9 +1,7 @@
 <h1 align="center">
   <span style="color: #39FF14; font-family: 'Poppins', 'Segoe UI', sans-serif;">Moein</span>
 </h1>
-<h3 align="center">
-  <span style="font-family: 'Courier New', monospace;">I do open source!</span>
-</h3>
+
 <p align="center">
   <span style="font-family: 'Georgia', serif;">A self‑taught passionate Front‑End developer from <b>Iran 🇮🇷</b></span>
 </p>
@@ -71,7 +69,7 @@
 ---
 
 <p align="center">
-  <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
+  <i>“First, solve the problem. Then, write the code.” </i>
 </p>
 <p align="center">
   ⭐️ From <a href="https://github.com/moien-m7">moien-m7</a>
