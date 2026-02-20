@@ -76,18 +76,52 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 
 
 
-### 🌌 Galactic Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moien-m7&show_icons=true&count_private=true&hide_title=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&border_color=39FF14&border_radius=10&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=moien-m7&show_icons=true&count_private=true&hide_title=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700&border_radius=10&hide=stars,prs,issues,contribs&custom_title=Repositories&show=repositories" width="49%" />
-</p>
+<svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moien-m7&background=0D1117&stroke=39FF14&ring=39FF14&fire=FFD700&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=AAAAAA&border=39FF14&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moien-m7&layout=compact&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&border_color=39FF14&border_radius=10&langs_count=8&hide_title=true" width="49%" />
-</p>
+  <defs>
+    <radialGradient id="bg">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="100%" stop-color="#050814"/>
+    </radialGradient>
+  </defs>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moien-m7&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=FFD700&area=true&area_color=39FF14&border_color=39FF14&border_radius=10&hide_border=false&custom_title=Contribution%20Graph" width="98%" />
+  <rect width="600" height="300" fill="url(#bg)" rx="15"/>
+
+  <!-- Title -->
+  <text x="300" y="40" text-anchor="middle" fill="#ffffff" font-size="22" font-weight="bold">
+    Moein 🌌
+  </text>
+
+  <text x="300" y="65" text-anchor="middle" fill="#00f7ff" font-size="13">
+    Front-End Developer | React Specialist
+  </text>
+
+  <!-- Center Planet -->
+  <circle cx="300" cy="160" r="18" fill="#00f7ff">
+    <animate attributeName="r" values="18;20;18" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Orbit 1 -->
+  <ellipse cx="300" cy="160" rx="80" ry="40" fill="none" stroke="#00f7ff33"/>
+
+  <circle r="6" fill="#00f7ff">
+    <animateMotion dur="6s" repeatCount="indefinite"
+      path="M220 160 a80 40 0 1 0 160 0 a80 40 0 1 0 -160 0"/>
+  </circle>
+
+  <!-- Orbit 2 -->
+  <ellipse cx="300" cy="160" rx="120" ry="70" fill="none" stroke="#0077ff33"/>
+
+  <circle r="6" fill="#0077ff">
+    <animateMotion dur="10s" repeatCount="indefinite"
+      path="M180 160 a120 70 0 1 0 240 0 a120 70 0 1 0 -240 0"/>
+  </circle>
+
+  <!-- Quote -->
+  <text x="300" y="270" text-anchor="middle" fill="#ffffff88" font-size="12">
+    "First, solve the problem. Then, write the code."
+  </text>
+
+</svg>
 </p>
