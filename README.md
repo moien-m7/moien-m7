@@ -28,7 +28,7 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 ### ⚡ Core JavaScript Metrics
 
 </div>
-<div align="center">
+
 | 🧠 Engine Power | 📊 Data |
 |-----------------|--------|
 | Years Working with JS | 2+ Years |
@@ -40,7 +40,7 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 | Performance Optimization | Avg 30% Improvement |
 | Bugs Squashed | Countless 🐛 |
 | Clean Code Discipline | 100% Mandatory |
-</div>
+
 
 
 
