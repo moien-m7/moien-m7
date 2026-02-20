@@ -76,3 +76,18 @@ I'm a passionate **Front-End Developer** based in **Iran** 🇮🇷 with 2 years
 
 
 
+### 🌌 Galactic Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moien-m7&show_icons=true&count_private=true&hide_title=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&border_color=39FF14&border_radius=10&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moien-m7&show_icons=true&count_private=true&hide_title=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700&border_radius=10&hide=stars,prs,issues,contribs&custom_title=Repositories&show=repositories" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moien-m7&background=0D1117&stroke=39FF14&ring=39FF14&fire=FFD700&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=AAAAAA&border=39FF14&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moien-m7&layout=compact&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&border_color=39FF14&border_radius=10&langs_count=8&hide_title=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moien-m7&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=FFD700&area=true&area_color=39FF14&border_color=39FF14&border_radius=10&hide_border=false&custom_title=Contribution%20Graph" width="98%" />
+</p>
